@@ -1,5 +1,2 @@
 # Enerbioflex / Website
-Technical stack :
-=> Programming languages used : HTML/CSS, Javascript, PHP
-=> Database : MySQL and PhpMyAdmin to manage the database
-=> Framework : Bootstrap
+Technical stack : HTML/CSS, Javascript, PHP, MySQL and PhpMyAdmin to manage the database, Bootstrap as a framework
